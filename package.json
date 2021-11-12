@@ -1,0 +1,14 @@
+{
+  "name": "projeto02_sgi_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3333"
+  },
+  "author": "Lucas Bueno Cesario",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
